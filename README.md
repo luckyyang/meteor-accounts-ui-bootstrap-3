@@ -182,6 +182,7 @@ accountsUIBootstrap3.setLanguage('ru'); // for Russian
 accountsUIBootstrap3.setLanguage('el'); // for Greek
 accountsUIBootstrap3.setLanguage('ko'); // for Korean
 accountsUIBootstrap3.setLanguage('ar'); // for Arabic
+accountsUIBootstrap3.setLanguage('zh'); // for Chinese
 ```
 
 If you want to implement your own language, use the `map` function like so:
